@@ -1,10 +1,10 @@
 # AdvanceDB
 Η εξαμηνιαία εργασία στο μάθημα Προχωρημένα Θέματα Βάσεων Δεδομένων. <br>
-Μέλη Ομάδας: <br>
+#### Μέλη Ομάδας: <br>
 Πνευματικού Αγγελική, el19948 <br>
 Ρουμελιώτης Ιωάννης, el19103 <br>
 
-## Για την σύνδεση στα Virtual Machines μας:
+#### Για την σύνδεση στα Virtual Machines μας:
 master:<br>
 user@snf-40637.ok-kno.grnetcloud.net <br>
 password: machine1!<br>
@@ -12,7 +12,7 @@ worker:<br>
 user@snf-40642.ok-kno.grnetcloud.net<br>
 password: machine2@<br>
 
-## Επεξήγηση αρχείων:
+#### Επεξήγηση αρχείων:
 dataframe.py: για την υλοποίηση του ζητούμενου 2 <br>
 query1a: για την υλοποίηση του query 1 με DataFrame <br>
 query1b: για την υλοποίηση του query 1 με SQL API <br>
