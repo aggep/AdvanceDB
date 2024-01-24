@@ -1,7 +1,7 @@
 # AdvanceDB
 Η εξαμηνιαία εργασία στο μάθημα Προχωρημένα Θέματα Βάσεων Δεδομένων. 
 
-##Για την σύνδεση στα Virtual Machines μας:
+## Για την σύνδεση στα Virtual Machines μας:
 - master:
 user@snf-40637.ok-kno.grnetcloud.net
 password: machine1!
@@ -9,7 +9,7 @@ password: machine1!
 user@snf-40642.ok-kno.grnetcloud.net
 password: machine2@
 
-##Επεξήγηση αρχείων:
+## Επεξήγηση αρχείων:
 - dataframe.py: για την υλοποίηση του ζητούμενου 2
 - query1a: για την υλοποίηση του query 1 με DataFrame
 - query1b: για την υλοποίηση του query 1 με SQL API
